@@ -1,5 +1,5 @@
-# Horiseon-refactoring-project
---
-Refactoring a web site using sematic tags
+For the company Horiseon I took their existing marketing website and refactored it to use sematic tags, added alt atributes, and consolidated their CSS file without changing the integrity of the page.
 
-In this project I am taking an existing marketing website and I am refactoring it to use semantic tags.
+Link : http://localhost:52330/index.html
+
+
